@@ -1,2 +1,2 @@
-# color-dice
+# color-dice extensions
 color dice 
